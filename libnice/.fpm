@@ -1,0 +1,6 @@
+-s build
+--name libnice
+--license MPL+LGPL
+--description "Bitsy.ai libnice distribution. Nice is an implementation of the IETF's draft Interactive Connectivity Establishment standard (ICE). ICE is useful for applications that want to establish peer-to-peer UDP data streams. It automates the process of traversing NATs and provides security against some attacks."
+--url "https://gitlab.freedesktop.org/libnice/libnice"
+--maintainer "Leigh Johnson <leigh@bitsy.ai>"
